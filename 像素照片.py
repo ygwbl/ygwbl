@@ -1,7 +1,7 @@
 from PIL import Image,ImageDraw,ImageFont
 
 font_size = 10
-text = '秦丽娜'
+text = '照片文字'
 img_path = '222.jpg'
 
 img_raw = Image.open(img_path)
