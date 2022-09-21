@@ -1,4 +1,4 @@
-[![ygwbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygwbl)](https://github.com/anuraghazra/github-readme-stats)
+[![ygwbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygwbl)](https://github.com/ygwbl)
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ygwbl&theme=xcode)](https://github.com/ygwbl)
 ![](https://stats.justsong.cn/api/github?username=ygwbl)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ygwbl)](https://github.com/ygwbl)
