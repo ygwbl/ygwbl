@@ -1,3 +1,2 @@
 ![](https://github-readme-stats.vercel.app/api?username=ygwbl)
-
-{"errors":{"theme":["Not a valid choice."],"timezone":["This field is required."]}}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
