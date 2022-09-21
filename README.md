@@ -1,5 +1,5 @@
 [![ygwbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygwbl)](https://github.com/ygwbl)
-[![ygwbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygwbl)](https://github.com/ygwbl)
+![ygwbl's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygwbl&layout=compact&hide_border=true&langs_count=10)
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ygwbl&theme=xcode)](https://github.com/ygwbl)
 ![](https://stats.justsong.cn/api/github?username=ygwbl)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ygwbl)](https://github.com/ygwbl)
